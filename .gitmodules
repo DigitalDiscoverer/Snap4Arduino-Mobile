@@ -1,3 +1,4 @@
 [submodule "Snap4Arduino-Mobile/www/Snap4Arduino"]
 	path = Snap4Arduino-Mobile/www/Snap4Arduino
 	url = https://github.com/DigitalDiscoverer/Snap4Arduino.git
+	branch = Mobile
