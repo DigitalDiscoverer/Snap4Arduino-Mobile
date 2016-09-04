@@ -1,0 +1,3 @@
+[submodule "com.DigitalDiscoverer.Snap4Arduino/www/Snap4Arduino"]
+	path = com.DigitalDiscoverer.Snap4Arduino/www/Snap4Arduino
+	url = https://github.com/DigitalDiscoverer/Snap4Arduino.git
